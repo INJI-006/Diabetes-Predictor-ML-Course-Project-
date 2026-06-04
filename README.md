@@ -38,4 +38,3 @@ Can we predict whether a patient has diabetes based on clinical and demographic 
 Try it yourself:  
 (https://pp2gcxmicxjsajkvjykyfw.streamlit.app/)
 
-## 📁 Repository Structure
